@@ -1,0 +1,15 @@
+D:\Disco local\disco\Trabajo\SistemaVentas\Sistema.Datos\bin\Debug\netcoreapp2.1\Sistema.Datos.deps.json
+D:\Disco local\disco\Trabajo\SistemaVentas\Sistema.Datos\bin\Debug\netcoreapp2.1\Sistema.Datos.dll
+D:\Disco local\disco\Trabajo\SistemaVentas\Sistema.Datos\bin\Debug\netcoreapp2.1\Sistema.Datos.pdb
+D:\Disco local\disco\Trabajo\SistemaVentas\Sistema.Datos\obj\Debug\netcoreapp2.1\Sistema.Datos.csprojAssemblyReference.cache
+D:\Disco local\disco\Trabajo\SistemaVentas\Sistema.Datos\obj\Debug\netcoreapp2.1\Sistema.Datos.AssemblyInfoInputs.cache
+D:\Disco local\disco\Trabajo\SistemaVentas\Sistema.Datos\obj\Debug\netcoreapp2.1\Sistema.Datos.AssemblyInfo.cs
+D:\Disco local\disco\Trabajo\SistemaVentas\Sistema.Datos\obj\Debug\netcoreapp2.1\Sistema.Datos.dll
+D:\Disco local\disco\Trabajo\SistemaVentas\Sistema.Datos\obj\Debug\netcoreapp2.1\Sistema.Datos.pdb
+D:\Disco local\disco\Trabajo\SistemaVentas\Sistema.Datos\obj\Debug\netcoreapp2.1\Sistema.Datos.csproj.CoreCompileInputs.cache
+D:\Disco local\disco\Trabajo\SistemaVentas\Sistema.Datos\bin\Debug\netcoreapp2.1\Sistema.Datos.runtimeconfig.json
+D:\Disco local\disco\Trabajo\SistemaVentas\Sistema.Datos\bin\Debug\netcoreapp2.1\Sistema.Datos.runtimeconfig.dev.json
+D:\Disco local\disco\Trabajo\SistemaVentas\Sistema.Datos\bin\Debug\netcoreapp2.1\Sistema.Entidades.dll
+D:\Disco local\disco\Trabajo\SistemaVentas\Sistema.Datos\bin\Debug\netcoreapp2.1\Sistema.Entidades.pdb
+D:\Disco local\disco\Trabajo\SistemaVentas\Sistema.Datos\obj\Debug\netcoreapp2.1\Sistema.Datos.csproj.CopyComplete
+D:\Disco local\disco\Trabajo\SistemaVentas\Sistema.Datos\obj\Debug\netcoreapp2.1\Sistema.Datos.genruntimeconfig.cache
